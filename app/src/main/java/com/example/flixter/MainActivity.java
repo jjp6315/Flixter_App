@@ -14,7 +14,7 @@ import org.json.JSONObject;
 
 import java.util.List;
 
-import models.Movie;
+import com.example.flixter.Movie.Movie;
 import okhttp3.Headers;
 
 public class MainActivity extends AppCompatActivity {
