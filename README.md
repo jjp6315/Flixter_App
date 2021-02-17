@@ -54,7 +54,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/G9lMVW8" width=250><br>
+<img src="[img]https://i.imgur.com/G9lMVW8.gif[/img]" width=250><br>
 
 ### Notes
 Challenges faced: I had a hard time wrapping my head around how the movie API were getting called but I learned quickly after watching the videos.
